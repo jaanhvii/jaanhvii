@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaanhvii
+- 👋 Hi, I’m @Janhvii
 - 
 - 🌱 I’m currently learning programming language
 - 
