@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Janhvii
+- 👋 Hi, I'm Janhvi 
 - 
-- 🌱 I’m currently learning programming language
+- 🌱 I’m currently learning programming languages and exploring 
 - 
 
 <!---
